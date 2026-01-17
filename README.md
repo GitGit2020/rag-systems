@@ -2,11 +2,11 @@
 
 
 
-This repository is a \*\*growing collection of hands-on experiments exploring Retrieval-Augmented Generation (RAG)\*\* and related retrieval techniques used in real-world LLM applications.
+This repository is a **growing collection of hands-on experiments exploring Retrieval-Augmented Generation (RAG)** and related retrieval techniques used in real-world LLM applications.
 
 
 
-The focus of this repository is to understand \*\*how retrieval, context construction, and evaluation influence LLM behavior\*\*, rather than to showcase a single framework, model, or one-off demo.
+The focus of this repository is to understand **how retrieval, context construction, and evaluation influence LLM behavior**, rather than to showcase a single framework, model, or one-off demo.
 
 
 
@@ -140,7 +140,7 @@ These variables are loaded at runtime and are \*\*not committed to version contr
 
 Open and run the notebooks or scripts in this repository.
 
-Each experiment is designed to be \*\*self-contained\*\*, focusing on a specific RAG concept or architectural pattern.
+Each experiment is designed to be **self-contained**, focusing on a specific RAG concept or architectural pattern.
 
 
 
