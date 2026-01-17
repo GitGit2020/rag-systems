@@ -1,4 +1,4 @@
-\# Retrieval-Augmented Generation (RAG)
+# Retrieval-Augmented Generation (RAG)
 
 
 
@@ -14,7 +14,7 @@ The focus of this repository is to understand \*\*how retrieval, context constru
 
 
 
-\## Why RAG?
+## Why RAG?
 
 
 
@@ -42,7 +42,7 @@ This repository explores \*\*different RAG design choices\*\* and how they affec
 
 
 
-\## Design Philosophy
+## Design Philosophy
 
 
 
@@ -68,11 +68,11 @@ Frameworks (such as LangChain) and advanced techniques (such as Graph-based retr
 
 
 
-\## Setup
+## Setup
 
 
 
-\### 1. Create a Python environment (recommended)
+### 1. Create a Python environment (recommended)
 
 
 
@@ -92,7 +92,7 @@ source .venv/bin/activate      # macOS / Linux
 
 
 
-\### 2. Install dependencies
+### 2. Install dependencies
 
 
 
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 
 
-\### 3. Configure environment variables
+### 3. Configure environment variables
 
 
 
@@ -134,7 +134,7 @@ These variables are loaded at runtime and are \*\*not committed to version contr
 
 
 
-\### 4. Run experiments
+### 4. Run experiments
 
 
 
@@ -148,7 +148,7 @@ Each experiment is designed to be \*\*self-contained\*\*, focusing on a specific
 
 
 
-\## Tools and Technologies
+## Tools and Technologies
 
 
 
@@ -178,7 +178,7 @@ Not every tool is used in every experiment.
 
 
 
-\## Key Takeaway
+## Key Takeaway
 
 
 
@@ -194,7 +194,7 @@ This repository demonstrates how progressively refining retrieval strategies lea
 
 
 
-\## Roadmap
+## Roadmap
 
 
 
