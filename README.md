@@ -22,19 +22,19 @@ Large Language Models (LLMs) are powerful reasoning engines, but they have funda
 
 
 
-\- They do not have access to private or proprietary data
+- They do not have access to private or proprietary data
 
-\- Their knowledge is bounded by a fixed training cutoff
+- Their knowledge is bounded by a fixed training cutoff
 
-\- They may produce generic or outdated answers for factual questions
-
-
-
-\*\*Retrieval-Augmented Generation (RAG)\*\* addresses these limitations by grounding LLM responses in external documents retrieved at query time.
+- They may produce generic or outdated answers for factual questions
 
 
 
-This repository explores \*\*different RAG design choices\*\* and how they affect accuracy, explainability, and robustness.
+**Retrieval-Augmented Generation (RAG)** addresses these limitations by grounding LLM responses in external documents retrieved at query time.
+
+
+
+This repository explores **different RAG design choices** and how they affect accuracy, explainability, and robustness.
 
 
 
@@ -50,17 +50,17 @@ This repository intentionally prioritizes:
 
 
 
-\- System-level understanding over abstractions
+- System-level understanding over abstractions
 
-\- Retrieval quality over model size
+- Retrieval quality over model size
 
-\- Explicit pipelines over black-box frameworks
+- Explicit pipelines over black-box frameworks
 
-\- Incremental complexity rather than monolithic systems
+- Incremental complexity rather than monolithic systems
 
 
 
-Frameworks (such as LangChain) and advanced techniques (such as Graph-based retrieval) are introduced \*\*only where they add clear architectural value\*\*.
+Frameworks (such as LangChain) and advanced techniques (such as Graph-based retrieval) are introduced **only where they add clear architectural value**.
 
 
 
@@ -156,17 +156,17 @@ Across the repository, experiments may use:
 
 
 
-\- Vector databases (e.g., ChromaDB)
+- Vector databases (e.g., ChromaDB)
 
-\- Language models (OpenAI, model-agnostic usage)
+- Language models (OpenAI, model-agnostic usage)
 
-\- Retrieval frameworks (e.g., LangChain)
+- Retrieval frameworks (e.g., LangChain)
 
-\- Classical and modern embedding techniques
+- Classical and modern embedding techniques
 
-\- Graph databases and structured retrieval
+- Graph databases and structured retrieval
 
-\- Public datasets (e.g., Hugging Face)
+- Public datasets (e.g., Hugging Face)
 
 
 
@@ -182,7 +182,7 @@ Not every tool is used in every experiment.
 
 
 
-> \*\*Reliable LLM applications are built by improving retrieval and context, not by relying on model memory alone.\*\*
+> **Reliable LLM applications are built by improving retrieval and context, not by relying on model memory alone.**
 
 
 
@@ -202,15 +202,15 @@ This repository will continue to evolve with:
 
 
 
-\- Hybrid and multi-stage retrieval strategies
+- Hybrid and multi-stage retrieval strategies
 
-\- Reranking and query expansion techniques
+- Reranking and query expansion techniques
 
-\- Graph-based and multi-hop retrieval (GraphRAG)
+- Graph-based and multi-hop retrieval (GraphRAG)
 
-\- Evaluation and monitoring of RAG pipelines
+- Evaluation and monitoring of RAG pipelines
 
-\- Experiments using real-world datasets
+- Experiments using real-world datasets
 
 
 
