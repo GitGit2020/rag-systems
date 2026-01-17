@@ -118,15 +118,15 @@ Create a `.env` file in the repository root:
 
 ```text
 
-OPENAI\_API\_KEY=<your\_api\_key\_here>
+OPENAI_API_KEY=<your_api_key_here>
 
-OPENAI\_MODEL\_NAME=<model\_name>
+OPENAI_MODEL_NAME=<model_name>
 
 ```
 
 
 
-These variables are loaded at runtime and are \*\*not committed to version control\*\*.
+These variables are loaded at runtime and are **not committed to version control**.
 
 
 
